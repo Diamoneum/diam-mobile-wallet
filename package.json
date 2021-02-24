@@ -1,11 +1,11 @@
 {
-  "name": "masarimobilewallet",
-  "displayName": "Masari Mobile Wallet",
+  "name": "diamoneummobilewallet",
+  "displayName": "Diamoneum Mobile Wallet",
   "version": "1.2.0",
-  "description": "Masari wallet for mobile devices",
+  "description": "Diamoneum wallet for mobile devices",
   "main": "index.js",
   "scripts": {},
-  "author": "Gnock - Masari team",
+  "author": "Gnock - Diamoneum team",
   "license": "BSD-3",
   "dependencies": {
     "cordova-android": "^8.1.0",
