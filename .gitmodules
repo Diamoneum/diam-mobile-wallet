@@ -1,3 +1,3 @@
-[submodule "masari-webwallet"]
-	path = masari-webwallet
-	url = https://github.com/masari-project/masari-webwallet.git
+[submodule "webwallet-js"]
+	path = webwallet-js
+	url = https://github.com/Diamoneum/webwallet-js.git
