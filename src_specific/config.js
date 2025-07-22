@@ -1,9 +1,9 @@
 "use strict";
 var global = typeof window !== 'undefined' ? window : self;
 global.config = {
-    apiUrl: typeof window !== 'undefined' && window.location ? window.location.href.substr(0, window.location.href.lastIndexOf('/') + 1) + 'api/' : 'http://wallet.diamoneum.xyz/api/',
+    apiUrl: typeof window !== 'undefined' && window.location ? window.location.href.substr(0, window.location.href.lastIndexOf('/') + 1) + 'api/' : 'http://wallet.diamoneum.com/api/',
     trustedDaemonsAddresses: [
-        'http://wallet.diamoneum.xyz:57576/'
+        'http://wallet.diamoneum.com:57576/'
     ],
     phpRelay: typeof window !== 'undefined' ? true : false,
     mainnetExplorerUrl: "http://explorer.diamoneum.xyz/",
